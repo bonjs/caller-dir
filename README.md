@@ -1,4 +1,4 @@
-# caller-dir
+# caller-dir [![Build Status](https://travis-ci.org/bonjs/caller-dir.svg?branch=master)](https://travis-ci.org/bonjs/caller-dir)
 
 ### A tool which could get the dirpath of a function method's caller
 
