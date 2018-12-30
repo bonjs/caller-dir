@@ -1,4 +1,4 @@
-# caller-dir [![Build Status](https://travis-ci.org/bonjs/caller-dir.svg?branch=master)](https://travis-ci.org/bonjs/caller-dir)
+# caller-dir [![Build Status](https://travis-ci.org/bonjs/caller-dir.svg?branch=master)](https://travis-ci.org/bonjs/caller-dir) [![](https://img.shields.io/npm/v/caller-dir.svg)](https://www.npmjs.com/package/caller-dir) [![](https://img.shields.io/npm/l/caller-dir.svg)](https://img.shields.io/npm/l/caller-dir.svg)
 
 ### A tool which could get the dirpath of a function method's caller
 
